@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Invoice>
+    <Company>Lumenn Ltd.</Company>
+    <ID>INV/123</ID>
+    <Positions>
+        <Position>
+            <Name>Light Bulb</Name>
+            <Quantity>20</Quantity>
+            <Price>5.34</Price>
+        </Position>
+        <Position>
+            <Name>Chair</Name>
+            <Quantity>2</Quantity>
+            <Price>120.43</Price>
+        </Position>
+        <Position>
+            <Name>Standing Desk</Name>
+            <Quantity>2</Quantity>
+            <Price>430.98</Price>
+        </Position>
+        <Position>
+            <Name>Coffee Machine</Name>
+            <Quantity>2</Quantity>
+            <Price>80.00</Price>
+        </Position>
+    </Positions>
+</Invoice>
